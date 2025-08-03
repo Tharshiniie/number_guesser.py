@@ -77,7 +77,7 @@ Python 3.x installed on your system
 
 📸 Screenshot
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](screenshot)
 
 
 ---
