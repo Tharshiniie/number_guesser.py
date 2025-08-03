@@ -77,7 +77,7 @@ Python 3.x installed on your system
 
 📸 Screenshot
 
-(Optional: Add a screenshot of your game running in the terminal)
+![Game Screenshot](screenshot.png)
 
 
 ---
